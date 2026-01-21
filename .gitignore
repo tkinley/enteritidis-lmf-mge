@@ -1,0 +1,36 @@
+# Large data / downloads / results (do not commit)
+data/
+datasets/
+assemblies/
+reads/
+results/
+tmp/
+work/
+scratch/
+panaroo/
+prokka/
+quast/
+busco/
+logs/
+*.fna
+*.fa
+*.fasta
+*.fastq
+*.fq
+*.bam
+*.cram
+*.vcf
+*.gff
+*.gbk
+*.sam
+*.bed
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Python
+__pycache__/
+*.pyc
