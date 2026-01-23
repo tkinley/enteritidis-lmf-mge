@@ -34,3 +34,8 @@ Thumbs.db
 # Python
 __pycache__/
 *.pyc
+
+# Generated figures and notebooks artifacts
+*.tif
+*.tiff
+**/.ipynb_checkpoints/
