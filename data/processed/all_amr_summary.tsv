@@ -1,0 +1,180 @@
+Genome	Contig	Start	Stop	Strand	Gene	Gene_name	Class	Subclass	Coverage	Identity
+GCA_002038285.1	MZPH01000001.1	332299	333522	+	mdsA	multidrug efflux RND transporter periplasmic adaptor subunit MdsA	EFFLUX	EFFLUX	100.00	98.28
+GCA_002038285.1	MZPH01000001.1	333522	336686	+	mdsB	multidrug efflux RND transporter permease subunit MdsB	EFFLUX	EFFLUX	100.00	99.81
+GCA_002038445.1	MZPT01000010.1	332417	333640	+	mdsA	multidrug efflux RND transporter periplasmic adaptor subunit MdsA	EFFLUX	EFFLUX	100.00	98.28
+GCA_002038445.1	MZPT01000010.1	333640	336804	+	mdsB	multidrug efflux RND transporter permease subunit MdsB	EFFLUX	EFFLUX	100.00	99.81
+GCA_002038485.1	MZPZ01000005.1	73706	76870	-	mdsB	multidrug efflux RND transporter permease subunit MdsB	EFFLUX	EFFLUX	100.00	99.81
+GCA_002038485.1	MZPZ01000005.1	76870	78093	-	mdsA	multidrug efflux RND transporter periplasmic adaptor subunit MdsA	EFFLUX	EFFLUX	100.00	98.28
+GCA_002038585.1	MZQH01000010.1	73513	76677	-	mdsB	multidrug efflux RND transporter permease subunit MdsB	EFFLUX	EFFLUX	100.00	99.81
+GCA_002038585.1	MZQH01000010.1	76677	77900	-	mdsA	multidrug efflux RND transporter periplasmic adaptor subunit MdsA	EFFLUX	EFFLUX	100.00	98.28
+GCA_002038665.1	MZQJ01000010.1	73610	76774	-	mdsB	multidrug efflux RND transporter permease subunit MdsB	EFFLUX	EFFLUX	100.00	99.81
+GCA_002038665.1	MZQJ01000010.1	76774	77997	-	mdsA	multidrug efflux RND transporter periplasmic adaptor subunit MdsA	EFFLUX	EFFLUX	100.00	98.28
+GCA_002038705.1	MZQO01000004.1	73724	76888	-	mdsB	multidrug efflux RND transporter permease subunit MdsB	EFFLUX	EFFLUX	100.00	99.81
+GCA_002038705.1	MZQO01000004.1	76888	78111	-	mdsA	multidrug efflux RND transporter periplasmic adaptor subunit MdsA	EFFLUX	EFFLUX	100.00	98.28
+GCA_002038715.1	MZQP01000001.1	73707	76871	-	mdsB	multidrug efflux RND transporter permease subunit MdsB	EFFLUX	EFFLUX	100.00	99.81
+GCA_002038715.1	MZQP01000001.1	76871	78094	-	mdsA	multidrug efflux RND transporter periplasmic adaptor subunit MdsA	EFFLUX	EFFLUX	100.00	98.28
+GCA_002038865.1	MZRG01000011.1	332296	333519	+	mdsA	multidrug efflux RND transporter periplasmic adaptor subunit MdsA	EFFLUX	EFFLUX	100.00	98.28
+GCA_002038865.1	MZRG01000011.1	333519	336683	+	mdsB	multidrug efflux RND transporter permease subunit MdsB	EFFLUX	EFFLUX	100.00	99.81
+GCA_002038945.1	MZRE01000002.1	73699	76863	-	mdsB	multidrug efflux RND transporter permease subunit MdsB	EFFLUX	EFFLUX	100.00	99.81
+GCA_002038945.1	MZRE01000002.1	76863	78086	-	mdsA	multidrug efflux RND transporter periplasmic adaptor subunit MdsA	EFFLUX	EFFLUX	100.00	98.28
+GCA_002038965.1	MZRO01000013.1	332296	333519	+	mdsA	multidrug efflux RND transporter periplasmic adaptor subunit MdsA	EFFLUX	EFFLUX	100.00	98.28
+GCA_002038965.1	MZRO01000013.1	333519	336683	+	mdsB	multidrug efflux RND transporter permease subunit MdsB	EFFLUX	EFFLUX	100.00	99.81
+GCA_002039125.1	MZRS01000003.1	332296	333519	+	mdsA	multidrug efflux RND transporter periplasmic adaptor subunit MdsA	EFFLUX	EFFLUX	100.00	98.28
+GCA_002039125.1	MZRS01000003.1	333519	336683	+	mdsB	multidrug efflux RND transporter permease subunit MdsB	EFFLUX	EFFLUX	100.00	99.81
+GCA_002039685.1	MZPU01000013.1	332534	333757	+	mdsA	multidrug efflux RND transporter periplasmic adaptor subunit MdsA	EFFLUX	EFFLUX	100.00	98.28
+GCA_002039685.1	MZPU01000013.1	333757	336921	+	mdsB	multidrug efflux RND transporter permease subunit MdsB	EFFLUX	EFFLUX	100.00	99.81
+GCA_002039865.1	MZQW01000016.1	73690	76854	-	mdsB	multidrug efflux RND transporter permease subunit MdsB	EFFLUX	EFFLUX	100.00	99.81
+GCA_002039865.1	MZQW01000016.1	76854	78077	-	mdsA	multidrug efflux RND transporter periplasmic adaptor subunit MdsA	EFFLUX	EFFLUX	100.00	98.28
+GCA_002039965.1	MZRD01000001.1	332296	333519	+	mdsA	multidrug efflux RND transporter periplasmic adaptor subunit MdsA	EFFLUX	EFFLUX	100.00	98.28
+GCA_002039965.1	MZRD01000001.1	333519	336683	+	mdsB	multidrug efflux RND transporter permease subunit MdsB	EFFLUX	EFFLUX	100.00	99.81
+GCA_002041695.1	MZWF01000014.1	332296	333519	+	mdsA	multidrug efflux RND transporter periplasmic adaptor subunit MdsA	EFFLUX	EFFLUX	100.00	98.28
+GCA_002041695.1	MZWF01000014.1	333519	336683	+	mdsB	multidrug efflux RND transporter permease subunit MdsB	EFFLUX	EFFLUX	100.00	99.81
+GCA_002041835.1	MZWU01000013.1	332342	333565	+	mdsA	multidrug efflux RND transporter periplasmic adaptor subunit MdsA	EFFLUX	EFFLUX	100.00	98.28
+GCA_002041835.1	MZWU01000013.1	333565	336729	+	mdsB	multidrug efflux RND transporter permease subunit MdsB	EFFLUX	EFFLUX	100.00	99.81
+GCA_002041955.1	MZXD01000017.1	73611	76775	-	mdsB	multidrug efflux RND transporter permease subunit MdsB	EFFLUX	EFFLUX	100.00	99.81
+GCA_002041955.1	MZXD01000017.1	76775	77998	-	mdsA	multidrug efflux RND transporter periplasmic adaptor subunit MdsA	EFFLUX	EFFLUX	100.00	98.28
+GCA_002042015.1	MZXI01000018.1	332417	333640	+	mdsA	multidrug efflux RND transporter periplasmic adaptor subunit MdsA	EFFLUX	EFFLUX	100.00	98.28
+GCA_002042015.1	MZXI01000018.1	333640	336804	+	mdsB	multidrug efflux RND transporter permease subunit MdsB	EFFLUX	EFFLUX	100.00	99.72
+GCA_002042065.1	MZXH01000012.1	332296	333519	+	mdsA	multidrug efflux RND transporter periplasmic adaptor subunit MdsA	EFFLUX	EFFLUX	100.00	98.28
+GCA_002042065.1	MZXH01000012.1	333519	336683	+	mdsB	multidrug efflux RND transporter permease subunit MdsB	EFFLUX	EFFLUX	100.00	99.72
+GCA_002042755.1	MZXG01000010.1	332296	333519	+	mdsA	multidrug efflux RND transporter periplasmic adaptor subunit MdsA	EFFLUX	EFFLUX	100.00	98.28
+GCA_002042755.1	MZXG01000010.1	333519	336683	+	mdsB	multidrug efflux RND transporter permease subunit MdsB	EFFLUX	EFFLUX	100.00	99.72
+GCA_002065725.1	MYCZ01000003.1	23870	27034	-	mdsB	multidrug efflux RND transporter permease subunit MdsB	EFFLUX	EFFLUX	100.00	99.81
+GCA_002065725.1	MYCZ01000003.1	27034	28257	-	mdsA	multidrug efflux RND transporter periplasmic adaptor subunit MdsA	EFFLUX	EFFLUX	100.00	98.28
+GCA_002065725.1	MYCZ01000014.1	28930	29718	+	aadA1	ANT(3'')-Ia family aminoglycoside nucleotidyltransferase AadA1	AMINOGLYCOSIDE	STREPTOMYCIN	100.00	100.00
+GCA_002065725.1	MYCZ01000014.1	29876	30772	+	aac(3)-VIa	aminoglycoside N-acetyltransferase AAC(3)-VIa	AMINOGLYCOSIDE	GENTAMICIN	100.00	100.00
+GCA_002065725.1	MYCZ01000014.1	36775	37611	+	sul1	sulfonamide-resistant dihydropteroate synthase Sul1	SULFONAMIDE	SULFONAMIDE	100.00	100.00
+GCA_003873435.1	RSSB01000007.1	154094	155317	+	mdsA	multidrug efflux RND transporter periplasmic adaptor subunit MdsA	EFFLUX	EFFLUX	100.00	98.28
+GCA_003873435.1	RSSB01000007.1	155317	158481	+	mdsB	multidrug efflux RND transporter permease subunit MdsB	EFFLUX	EFFLUX	100.00	99.81
+GCA_004227205.1	AAADDK010000003.1	217809	219032	+	mdsA	multidrug efflux RND transporter periplasmic adaptor subunit MdsA	EFFLUX	EFFLUX	100.00	98.28
+GCA_004227205.1	AAADDK010000003.1	219032	222196	+	mdsB	multidrug efflux RND transporter permease subunit MdsB	EFFLUX	EFFLUX	100.00	99.81
+GCA_006002245.1	AAEHTC010000015.1	26535	27758	+	mdsA	multidrug efflux RND transporter periplasmic adaptor subunit MdsA	EFFLUX	EFFLUX	100.00	98.28
+GCA_006002245.1	AAEHTC010000015.1	27758	30922	+	mdsB	multidrug efflux RND transporter permease subunit MdsB	EFFLUX	EFFLUX	100.00	99.81
+GCA_006002405.1	AAEHTO010000004.1	360779	362002	+	mdsA	multidrug efflux RND transporter periplasmic adaptor subunit MdsA	EFFLUX	EFFLUX	100.00	98.28
+GCA_006002405.1	AAEHTO010000004.1	362002	365166	+	mdsB	multidrug efflux RND transporter permease subunit MdsB	EFFLUX	EFFLUX	100.00	99.81
+GCA_006074615.1	AAENAR010000008.1	154094	155317	+	mdsA	multidrug efflux RND transporter periplasmic adaptor subunit MdsA	EFFLUX	EFFLUX	100.00	98.28
+GCA_006074615.1	AAENAR010000008.1	155317	158481	+	mdsB	multidrug efflux RND transporter permease subunit MdsB	EFFLUX	EFFLUX	100.00	99.81
+GCA_006076575.1	AAENFY010000029.1	22683	25847	-	mdsB	multidrug efflux RND transporter permease subunit MdsB	EFFLUX	EFFLUX	100.00	99.81
+GCA_006076575.1	AAENFY010000029.1	25847	27070	-	mdsA	multidrug efflux RND transporter periplasmic adaptor subunit MdsA	EFFLUX	EFFLUX	100.00	98.28
+GCA_006076875.1	AAENGB010000047.1	3758	6922	-	mdsB	multidrug efflux RND transporter permease subunit MdsB	EFFLUX	EFFLUX	100.00	99.81
+GCA_006076875.1	AAENGB010000047.1	6922	8145	-	mdsA	multidrug efflux RND transporter periplasmic adaptor subunit MdsA	EFFLUX	EFFLUX	100.00	98.28
+GCA_006144215.1	AAESBH010000006.1	100130	101353	+	mdsA	multidrug efflux RND transporter periplasmic adaptor subunit MdsA	EFFLUX	EFFLUX	100.00	98.28
+GCA_006144215.1	AAESBH010000006.1	101353	104517	+	mdsB	multidrug efflux RND transporter permease subunit MdsB	EFFLUX	EFFLUX	100.00	99.81
+GCA_006145915.1	AAESBL010000041.1	3724	6888	-	mdsB	multidrug efflux RND transporter permease subunit MdsB	EFFLUX	EFFLUX	100.00	99.81
+GCA_006145915.1	AAESBL010000041.1	6888	8111	-	mdsA	multidrug efflux RND transporter periplasmic adaptor subunit MdsA	EFFLUX	EFFLUX	100.00	98.28
+GCA_006473805.1	AAFKUV010000007.1	154094	155317	+	mdsA	multidrug efflux RND transporter periplasmic adaptor subunit MdsA	EFFLUX	EFFLUX	100.00	98.28
+GCA_006473805.1	AAFKUV010000007.1	155317	158481	+	mdsB	multidrug efflux RND transporter permease subunit MdsB	EFFLUX	EFFLUX	100.00	99.81
+GCA_006683205.1	AAFYWM010000002.1	400523	401746	+	mdsA	multidrug efflux RND transporter periplasmic adaptor subunit MdsA	EFFLUX	EFFLUX	100.00	98.28
+GCA_006683205.1	AAFYWM010000002.1	401746	404910	+	mdsB	multidrug efflux RND transporter permease subunit MdsB	EFFLUX	EFFLUX	100.00	99.81
+GCA_007391565.1	AAHVBN010000007.1	154094	155317	+	mdsA	multidrug efflux RND transporter periplasmic adaptor subunit MdsA	EFFLUX	EFFLUX	100.00	98.28
+GCA_007391565.1	AAHVBN010000007.1	155317	158481	+	mdsB	multidrug efflux RND transporter permease subunit MdsB	EFFLUX	EFFLUX	100.00	99.81
+GCA_007742535.1	AAITBJ010000006.1	154094	155317	+	mdsA	multidrug efflux RND transporter periplasmic adaptor subunit MdsA	EFFLUX	EFFLUX	100.00	98.28
+GCA_007742535.1	AAITBJ010000006.1	155317	158481	+	mdsB	multidrug efflux RND transporter permease subunit MdsB	EFFLUX	EFFLUX	100.00	99.81
+GCA_007855315.1	AAJAFZ010000007.1	154094	155317	+	mdsA	multidrug efflux RND transporter periplasmic adaptor subunit MdsA	EFFLUX	EFFLUX	100.00	98.28
+GCA_007855315.1	AAJAFZ010000007.1	155317	158481	+	mdsB	multidrug efflux RND transporter permease subunit MdsB	EFFLUX	EFFLUX	100.00	99.81
+GCA_008003705.1	AAJJPB010000008.1	154098	155321	+	mdsA	multidrug efflux RND transporter periplasmic adaptor subunit MdsA	EFFLUX	EFFLUX	100.00	98.28
+GCA_008003705.1	AAJJPB010000008.1	155321	158485	+	mdsB	multidrug efflux RND transporter permease subunit MdsB	EFFLUX	EFFLUX	100.00	99.81
+GCA_008003705.1	AAJJPB010000022.1	11484	12269	-	aadA5	ANT(3'')-Ia family aminoglycoside nucleotidyltransferase AadA5	AMINOGLYCOSIDE	STREPTOMYCIN	100.00	100.00
+GCA_008003705.1	AAJJPB010000022.1	12403	12873	-	dfrA17	trimethoprim-resistant dihydrofolate reductase DfrA17	TRIMETHOPRIM	TRIMETHOPRIM	100.00	100.00
+GCA_008003705.1	AAJJPB010000022.1	18724	19581	-	blaTEM-1	broad-spectrum class A beta-lactamase TEM-1	BETA-LACTAM	BETA-LACTAM	100.00	100.00
+GCA_008003705.1	AAJJPB010000046.1	748	1605	+	blaTEM-1	broad-spectrum class A beta-lactamase TEM-1	BETA-LACTAM	BETA-LACTAM	100.00	100.00
+GCA_008003705.1	AAJJPB010000046.1	7456	7926	+	dfrA17	trimethoprim-resistant dihydrofolate reductase DfrA17	TRIMETHOPRIM	TRIMETHOPRIM	100.00	100.00
+GCA_008003705.1	AAJJPB010000046.1	8060	8845	+	aadA5	ANT(3'')-Ia family aminoglycoside nucleotidyltransferase AadA5	AMINOGLYCOSIDE	STREPTOMYCIN	100.00	100.00
+GCA_008005975.1	AAJKJH010000003.1	322367	323590	+	mdsA	multidrug efflux RND transporter periplasmic adaptor subunit MdsA	EFFLUX	EFFLUX	100.00	98.28
+GCA_008005975.1	AAJKJH010000003.1	323590	326754	+	mdsB	multidrug efflux RND transporter permease subunit MdsB	EFFLUX	EFFLUX	100.00	99.81
+GCA_008025695.1	AAJKZT010000021.1	26567	27790	+	mdsA	multidrug efflux RND transporter periplasmic adaptor subunit MdsA	EFFLUX	EFFLUX	100.00	98.28
+GCA_008025695.1	AAJKZT010000021.1	27790	30954	+	mdsB	multidrug efflux RND transporter permease subunit MdsB	EFFLUX	EFFLUX	100.00	99.81
+GCA_008116765.1	AAJQQB010000005.1	154097	155320	+	mdsA	multidrug efflux RND transporter periplasmic adaptor subunit MdsA	EFFLUX	EFFLUX	100.00	98.28
+GCA_008116765.1	AAJQQB010000005.1	155320	158484	+	mdsB	multidrug efflux RND transporter permease subunit MdsB	EFFLUX	EFFLUX	100.00	99.81
+GCA_008116765.1	AAJQQB010000043.1	4370	5227	+	blaTEM-1	broad-spectrum class A beta-lactamase TEM-1	BETA-LACTAM	BETA-LACTAM	100.00	100.00
+GCA_008116765.1	AAJQQB010000071.1	9530	10387	+	blaTEM-1	broad-spectrum class A beta-lactamase TEM-1	BETA-LACTAM	BETA-LACTAM	100.00	100.00
+GCA_008913225.1	AALODY010000013.1	73589	76753	-	mdsB	multidrug efflux RND transporter permease subunit MdsB	EFFLUX	EFFLUX	100.00	99.81
+GCA_008913225.1	AALODY010000013.1	76753	77976	-	mdsA	multidrug efflux RND transporter periplasmic adaptor subunit MdsA	EFFLUX	EFFLUX	100.00	98.28
+GCA_008913225.1	AALODY010000028.1	2608	3393	-	aadA5	ANT(3'')-Ia family aminoglycoside nucleotidyltransferase AadA5	AMINOGLYCOSIDE	STREPTOMYCIN	100.00	100.00
+GCA_008913225.1	AALODY010000028.1	3527	3997	-	dfrA17	trimethoprim-resistant dihydrofolate reductase DfrA17	TRIMETHOPRIM	TRIMETHOPRIM	100.00	100.00
+GCA_008913225.1	AALODY010000028.1	9848	10705	-	blaTEM-1	broad-spectrum class A beta-lactamase TEM-1	BETA-LACTAM	BETA-LACTAM	100.00	100.00
+GCA_008913225.1	AALODY010000071.1	663	1520	+	blaTEM-1	broad-spectrum class A beta-lactamase TEM-1	BETA-LACTAM	BETA-LACTAM	100.00	100.00
+GCA_008913225.1	AALODY010000072.1	391	861	+	dfrA17	trimethoprim-resistant dihydrofolate reductase DfrA17	TRIMETHOPRIM	TRIMETHOPRIM	100.00	100.00
+GCA_008913225.1	AALODY010000072.1	995	1780	+	aadA5	ANT(3'')-Ia family aminoglycoside nucleotidyltransferase AadA5	AMINOGLYCOSIDE	STREPTOMYCIN	100.00	100.00
+GCA_009074345.1	AALWRO010000005.1	213323	214546	+	mdsA	multidrug efflux RND transporter periplasmic adaptor subunit MdsA	EFFLUX	EFFLUX	100.00	98.28
+GCA_009074345.1	AALWRO010000005.1	214546	217710	+	mdsB	multidrug efflux RND transporter permease subunit MdsB	EFFLUX	EFFLUX	100.00	99.72
+GCA_009227165.1	AAMGQN010000007.1	154094	155317	+	mdsA	multidrug efflux RND transporter periplasmic adaptor subunit MdsA	EFFLUX	EFFLUX	100.00	98.28
+GCA_009227165.1	AAMGQN010000007.1	155317	158481	+	mdsB	multidrug efflux RND transporter permease subunit MdsB	EFFLUX	EFFLUX	100.00	99.81
+GCA_009507675.1	AAMUEF010000006.1	154094	155317	+	mdsA	multidrug efflux RND transporter periplasmic adaptor subunit MdsA	EFFLUX	EFFLUX	100.00	98.28
+GCA_009507675.1	AAMUEF010000006.1	155317	158481	+	mdsB	multidrug efflux RND transporter permease subunit MdsB	EFFLUX	EFFLUX	100.00	99.81
+GCA_009507675.1	AAMUEF010000023.1	35031	35888	+	blaTEM-1	broad-spectrum class A beta-lactamase TEM-1	BETA-LACTAM	BETA-LACTAM	100.00	100.00
+GCA_009507675.1	AAMUEF010000045.1	340	1197	+	blaTEM-1	broad-spectrum class A beta-lactamase TEM-1	BETA-LACTAM	BETA-LACTAM	100.00	100.00
+GCA_009618955.1	DAAFPW010000004.1	400523	401746	+	mdsA	multidrug efflux RND transporter periplasmic adaptor subunit MdsA	EFFLUX	EFFLUX	100.00	98.28
+GCA_009618955.1	DAAFPW010000004.1	401746	404910	+	mdsB	multidrug efflux RND transporter permease subunit MdsB	EFFLUX	EFFLUX	100.00	99.81
+GCA_009624535.1	DAAFZP010000004.1	332265	333488	+	mdsA	multidrug efflux RND transporter periplasmic adaptor subunit MdsA	EFFLUX	EFFLUX	100.00	98.28
+GCA_009624535.1	DAAFZP010000004.1	333488	336652	+	mdsB	multidrug efflux RND transporter permease subunit MdsB	EFFLUX	EFFLUX	100.00	99.81
+GCA_011084405.1	AAPFSX010000004.1	400523	401746	+	mdsA	multidrug efflux RND transporter periplasmic adaptor subunit MdsA	EFFLUX	EFFLUX	100.00	98.28
+GCA_011084405.1	AAPFSX010000004.1	401746	404910	+	mdsB	multidrug efflux RND transporter permease subunit MdsB	EFFLUX	EFFLUX	100.00	99.81
+GCA_011208605.1	AAPOGP010000018.1	2905	6069	-	mdsB	multidrug efflux RND transporter permease subunit MdsB	EFFLUX	EFFLUX	100.00	99.81
+GCA_011208605.1	AAPOGP010000018.1	6069	7292	-	mdsA	multidrug efflux RND transporter periplasmic adaptor subunit MdsA	EFFLUX	EFFLUX	100.00	98.28
+GCA_011702675.1	AAQRZV010000016.1	26583	27806	+	mdsA	multidrug efflux RND transporter periplasmic adaptor subunit MdsA	EFFLUX	EFFLUX	100.00	98.28
+GCA_011702675.1	AAQRZV010000016.1	27806	30970	+	mdsB	multidrug efflux RND transporter permease subunit MdsB	EFFLUX	EFFLUX	100.00	99.81
+GCA_014067775.1	AAVGSV010000010.1	154101	155324	+	mdsA	multidrug efflux RND transporter periplasmic adaptor subunit MdsA	EFFLUX	EFFLUX	100.00	98.28
+GCA_014067775.1	AAVGSV010000010.1	155324	158488	+	mdsB	multidrug efflux RND transporter permease subunit MdsB	EFFLUX	EFFLUX	100.00	99.72
+GCA_014349365.1	JAALIW010000001.1	73610	76774	-	mdsB	multidrug efflux RND transporter permease subunit MdsB	EFFLUX	EFFLUX	100.00	99.81
+GCA_014349365.1	JAALIW010000001.1	76774	77997	-	mdsA	multidrug efflux RND transporter periplasmic adaptor subunit MdsA	EFFLUX	EFFLUX	100.00	98.28
+GCA_017337525.1	AAZLQN010000003.1	411919	413142	+	mdsA	multidrug efflux RND transporter periplasmic adaptor subunit MdsA	EFFLUX	EFFLUX	100.00	98.28
+GCA_017337525.1	AAZLQN010000003.1	413142	416306	+	mdsB	multidrug efflux RND transporter permease subunit MdsB	EFFLUX	EFFLUX	100.00	99.72
+GCA_028890365.1	JARCHD010000003.1	400689	401912	+	mdsA	multidrug efflux RND transporter periplasmic adaptor subunit MdsA	EFFLUX	EFFLUX	100.00	98.28
+GCA_028890365.1	JARCHD010000003.1	401912	405076	+	mdsB	multidrug efflux RND transporter permease subunit MdsB	EFFLUX	EFFLUX	100.00	99.81
+GCA_028890365.1	JARCHD010000015.1	11668	12525	-	blaTEM-1	broad-spectrum class A beta-lactamase TEM-1	BETA-LACTAM	BETA-LACTAM	100.00	100.00
+GCA_028890365.1	JARCHD010000015.1	65467	66324	-	blaTEM-1	broad-spectrum class A beta-lactamase TEM-1	BETA-LACTAM	BETA-LACTAM	100.00	100.00
+GCA_028890405.1	JARCHH010000003.1	23837	27001	-	mdsB	multidrug efflux RND transporter permease subunit MdsB	EFFLUX	EFFLUX	100.00	99.81
+GCA_028890405.1	JARCHH010000003.1	27001	28224	-	mdsA	multidrug efflux RND transporter periplasmic adaptor subunit MdsA	EFFLUX	EFFLUX	100.00	98.28
+GCA_028890405.1	JARCHH010000021.1	9444	10301	-	blaTEM-1	broad-spectrum class A beta-lactamase TEM-1	BETA-LACTAM	BETA-LACTAM	100.00	100.00
+GCA_028890445.1	JARCHE010000003.1	400689	401912	+	mdsA	multidrug efflux RND transporter periplasmic adaptor subunit MdsA	EFFLUX	EFFLUX	100.00	98.28
+GCA_028890445.1	JARCHE010000003.1	401912	405076	+	mdsB	multidrug efflux RND transporter permease subunit MdsB	EFFLUX	EFFLUX	100.00	99.81
+GCA_028890445.1	JARCHE010000022.1	47030	47887	+	blaTEM-1	broad-spectrum class A beta-lactamase TEM-1	BETA-LACTAM	BETA-LACTAM	100.00	100.00
+GCA_032541585.1	DAQCXS010000005.1	411918	413141	+	mdsA	multidrug efflux RND transporter periplasmic adaptor subunit MdsA	EFFLUX	EFFLUX	100.00	98.28
+GCA_032541585.1	DAQCXS010000005.1	413141	416305	+	mdsB	multidrug efflux RND transporter permease subunit MdsB	EFFLUX	EFFLUX	100.00	99.72
+GCA_032592355.1	DAQDLM010000005.1	411800	413023	+	mdsA	multidrug efflux RND transporter periplasmic adaptor subunit MdsA	EFFLUX	EFFLUX	100.00	98.28
+GCA_032592355.1	DAQDLM010000005.1	413023	416187	+	mdsB	multidrug efflux RND transporter permease subunit MdsB	EFFLUX	EFFLUX	100.00	99.72
+GCA_037003325.1	JAQHXH010000003.1	413563	414786	+	mdsA	multidrug efflux RND transporter periplasmic adaptor subunit MdsA	EFFLUX	EFFLUX	100.00	98.28
+GCA_037003325.1	JAQHXH010000003.1	414786	417950	+	mdsB	multidrug efflux RND transporter permease subunit MdsB	EFFLUX	EFFLUX	100.00	99.81
+GCA_037003385.1	JAQHXE010000003.1	74009	77173	-	mdsB	multidrug efflux RND transporter permease subunit MdsB	EFFLUX	EFFLUX	100.00	99.81
+GCA_037003385.1	JAQHXE010000003.1	77173	78396	-	mdsA	multidrug efflux RND transporter periplasmic adaptor subunit MdsA	EFFLUX	EFFLUX	100.00	98.28
+GCA_037003665.1	JAQHWV010000003.1	413563	414786	+	mdsA	multidrug efflux RND transporter periplasmic adaptor subunit MdsA	EFFLUX	EFFLUX	100.00	98.28
+GCA_037003665.1	JAQHWV010000003.1	414786	417950	+	mdsB	multidrug efflux RND transporter permease subunit MdsB	EFFLUX	EFFLUX	100.00	99.81
+GCA_037003665.1	JAQHWV010000011.1	23375	24232	+	blaTEM-1	broad-spectrum class A beta-lactamase TEM-1	BETA-LACTAM	BETA-LACTAM	100.00	100.00
+GCA_037003665.1	JAQHWV010000011.1	30083	30553	+	dfrA17	trimethoprim-resistant dihydrofolate reductase DfrA17	TRIMETHOPRIM	TRIMETHOPRIM	100.00	100.00
+GCA_037003665.1	JAQHWV010000011.1	30687	31472	+	aadA5	ANT(3'')-Ia family aminoglycoside nucleotidyltransferase AadA5	AMINOGLYCOSIDE	STREPTOMYCIN	100.00	100.00
+GCA_037003745.1	JAQHWM010000003.1	413563	414786	+	mdsA	multidrug efflux RND transporter periplasmic adaptor subunit MdsA	EFFLUX	EFFLUX	100.00	98.28
+GCA_037003745.1	JAQHWM010000003.1	414786	417950	+	mdsB	multidrug efflux RND transporter permease subunit MdsB	EFFLUX	EFFLUX	100.00	99.81
+GCA_037003745.1	JAQHWM010000014.1	37447	38304	+	blaTEM-1	broad-spectrum class A beta-lactamase TEM-1	BETA-LACTAM	BETA-LACTAM	100.00	100.00
+GCA_037003745.1	JAQHWM010000017.1	5413	5883	+	dfrA17	trimethoprim-resistant dihydrofolate reductase DfrA17	TRIMETHOPRIM	TRIMETHOPRIM	100.00	100.00
+GCA_037003745.1	JAQHWM010000017.1	6017	6802	+	aadA5	ANT(3'')-Ia family aminoglycoside nucleotidyltransferase AadA5	AMINOGLYCOSIDE	STREPTOMYCIN	100.00	100.00
+GCA_037003885.1	JAQHWI010000003.1	74009	77173	-	mdsB	multidrug efflux RND transporter permease subunit MdsB	EFFLUX	EFFLUX	100.00	99.81
+GCA_037003885.1	JAQHWI010000003.1	77173	78396	-	mdsA	multidrug efflux RND transporter periplasmic adaptor subunit MdsA	EFFLUX	EFFLUX	100.00	98.28
+GCA_037003885.1	JAQHWI010000013.1	8451	9263	+	sul2	sulfonamide-resistant dihydropteroate synthase Sul2	SULFONAMIDE	SULFONAMIDE	100.00	100.00
+GCA_037003885.1	JAQHWI010000013.1	9327	10127	+	aph(3'')-Ib	aminoglycoside O-phosphotransferase APH(3'')-Ib	AMINOGLYCOSIDE	STREPTOMYCIN	100.00	100.00
+GCA_037003885.1	JAQHWI010000013.1	10130	10963	+	aph(6)-Id	aminoglycoside O-phosphotransferase APH(6)-Id	AMINOGLYCOSIDE	STREPTOMYCIN	100.00	100.00
+GCA_037003885.1	JAQHWI010000013.1	11690	12547	-	blaTEM-1	broad-spectrum class A beta-lactamase TEM-1	BETA-LACTAM	BETA-LACTAM	100.00	100.00
+GCA_041411215.1	CP087488.1	3706252	3707475	+	mdsA	multidrug efflux RND transporter periplasmic adaptor subunit MdsA	EFFLUX	EFFLUX	100.00	98.28
+GCA_041411215.1	CP087488.1	3707475	3710639	+	mdsB	multidrug efflux RND transporter permease subunit MdsB	EFFLUX	EFFLUX	100.00	99.81
+GCA_041411215.1	CP087490.1	34521	35378	-	blaTEM-1	broad-spectrum class A beta-lactamase TEM-1	BETA-LACTAM	BETA-LACTAM	100.00	100.00
+GCA_041411215.1	CP087490.1	41483	42679	-	tet(A)	tetracycline efflux MFS transporter Tet(A)	TETRACYCLINE	TETRACYCLINE	100.00	100.00
+GCA_041411215.1	CP087490.1	52097	52933	-	sul1	sulfonamide-resistant dihydropteroate synthase Sul1	SULFONAMIDE	SULFONAMIDE	100.00	100.00
+GCA_041411215.1	CP087490.1	53441	54229	-	aadA1	ANT(3'')-Ia family aminoglycoside nucleotidyltransferase AadA1	AMINOGLYCOSIDE	STREPTOMYCIN	100.00	100.00
+GCA_041411215.1	CP087490.1	54325	54795	-	dfrA1	trimethoprim-resistant dihydrofolate reductase DfrA1	TRIMETHOPRIM	TRIMETHOPRIM	100.00	100.00
+GCA_045376435.1	JBJIMG010000003.1	400477	401700	+	mdsA	multidrug efflux RND transporter periplasmic adaptor subunit MdsA	EFFLUX	EFFLUX	100.00	98.28
+GCA_045376435.1	JBJIMG010000003.1	401700	404864	+	mdsB	multidrug efflux RND transporter permease subunit MdsB	EFFLUX	EFFLUX	100.00	99.81
+GCA_045376435.1	JBJIMG010000014.1	15878	16711	-	aph(6)-Id	aminoglycoside O-phosphotransferase APH(6)-Id	AMINOGLYCOSIDE	STREPTOMYCIN	100.00	100.00
+GCA_045376435.1	JBJIMG010000014.1	16714	17514	-	aph(3'')-Ib	aminoglycoside O-phosphotransferase APH(3'')-Ib	AMINOGLYCOSIDE	STREPTOMYCIN	100.00	100.00
+GCA_045376435.1	JBJIMG010000014.1	17578	18390	-	sul2	sulfonamide-resistant dihydropteroate synthase Sul2	SULFONAMIDE	SULFONAMIDE	100.00	100.00
+GCA_045376435.1	JBJIMG010000014.1	38778	39635	+	blaTEM-1	broad-spectrum class A beta-lactamase TEM-1	BETA-LACTAM	BETA-LACTAM	100.00	100.00
+GCA_045376635.1	JBJIMJ010000003.1	73407	76571	-	mdsB	multidrug efflux RND transporter permease subunit MdsB	EFFLUX	EFFLUX	100.00	99.81
+GCA_045376635.1	JBJIMJ010000003.1	76571	77794	-	mdsA	multidrug efflux RND transporter periplasmic adaptor subunit MdsA	EFFLUX	EFFLUX	100.00	98.28
+GCA_045376635.1	JBJIMJ010000018.1	654	1487	-	aph(6)-Id	aminoglycoside O-phosphotransferase APH(6)-Id	AMINOGLYCOSIDE	STREPTOMYCIN	100.00	100.00
+GCA_045376635.1	JBJIMJ010000018.1	1490	2290	-	aph(3'')-Ib	aminoglycoside O-phosphotransferase APH(3'')-Ib	AMINOGLYCOSIDE	STREPTOMYCIN	100.00	100.00
+GCA_045376635.1	JBJIMJ010000018.1	3253	4449	-	tet(A)	tetracycline efflux MFS transporter Tet(A)	TETRACYCLINE	TETRACYCLINE	100.00	100.00
+GCA_045376635.1	JBJIMJ010000018.1	5506	6339	-	aph(6)-Id	aminoglycoside O-phosphotransferase APH(6)-Id	AMINOGLYCOSIDE	STREPTOMYCIN	100.00	100.00
+GCA_045376635.1	JBJIMJ010000018.1	6342	7142	-	aph(3'')-Ib	aminoglycoside O-phosphotransferase APH(3'')-Ib	AMINOGLYCOSIDE	STREPTOMYCIN	100.00	100.00
+GCA_045376635.1	JBJIMJ010000018.1	7206	8018	-	sul2	sulfonamide-resistant dihydropteroate synthase Sul2	SULFONAMIDE	SULFONAMIDE	100.00	100.00
+GCA_045376635.1	JBJIMJ010000022.1	3943	4800	+	blaTEM-1	broad-spectrum class A beta-lactamase TEM-1	BETA-LACTAM	BETA-LACTAM	100.00	100.00
+GCA_046024395.1	ABWSRW010000003.1	400523	401746	+	mdsA	multidrug efflux RND transporter periplasmic adaptor subunit MdsA	EFFLUX	EFFLUX	100.00	98.28
+GCA_046024395.1	ABWSRW010000003.1	401746	404910	+	mdsB	multidrug efflux RND transporter permease subunit MdsB	EFFLUX	EFFLUX	100.00	99.81
