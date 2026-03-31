@@ -1,0 +1,65 @@
+Unnamed: 0,Assembly,SNP cluster,Isolation source,Isolation type,Create date,dataset_source,Computed_serotype,is_LMF,cluster_status,Sample,IncFIB(S),IncFII(S),IncI1-I(Alpha),IncI2(Delta),IncX1,Cohort
+0,GCA_008003705.1,PDS000026945.72,sichuan pepper,environmental/other,2013-11-20T06:41:47Z,LMF_file,Enteritidis,1,mixed,GCA_008003705.1,1,1,0,0,1,LMF
+1,GCA_011084405.1,PDS000065758.1669,spice mixture for lahori fish,environmental/other,2015-02-11T00:08:14Z,LMF_file,Enteritidis,1,mixed,GCA_011084405.1,1,1,0,0,0,LMF
+7,GCA_008025695.1,PDS000184417.155,thyme leaves,environmental/other,2015-02-10T18:10:34Z,LMF_file,Enteritidis,1,mixed,GCA_008025695.1,1,1,0,0,0,LMF
+9,GCA_008005975.1,PDS000026860.270,feed,environmental/other,2015-02-10T17:09:49Z,LMF_file,Enteritidis,1,mixed,GCA_008005975.1,1,1,0,0,0,LMF
+12,GCA_008116765.1,PDS000026869.554,pet treat chicken breast strip,environmental/other,2015-07-06T13:16:26Z,LMF_file,Enteritidis,1,mixed,GCA_008116765.1,0,0,0,0,1,LMF
+18,GCA_008913225.1,PDS000026945.72,pet treat chicken jerky,environmental/other,2016-07-21T14:20:42Z,LMF_file,Enteritidis,1,mixed,GCA_008913225.1,0,0,0,0,1,LMF
+20,GCA_003873435.1,PDS000058525.21,cake,environmental/other,2016-11-28T18:31:58Z,LMF_file,Enteritidis,1,mixed,GCA_003873435.1,1,1,0,0,0,LMF
+21,GCA_009074345.1,PDS000002770.694,wheat,environmental/other,2017-02-07T20:36:53Z,LMF_file,Enteritidis,1,mixed,GCA_009074345.1,1,1,0,0,0,LMF
+22,GCA_002038285.1,PDS000218745.3,cake,environmental/other,2017-03-20T13:12:41Z,LMF_file,Enteritidis,1,mixed,GCA_002038285.1,1,1,0,0,0,LMF
+23,GCA_002038445.1,PDS000218745.3,cake,environmental/other,2017-03-20T13:15:22Z,LMF_file,Enteritidis,1,mixed,GCA_002038445.1,1,1,0,0,0,LMF
+24,GCA_002038665.1,PDS000218745.3,cake,environmental/other,2017-03-20T13:19:16Z,LMF_file,Enteritidis,1,mixed,GCA_002038665.1,1,1,0,0,0,LMF
+25,GCA_002038705.1,PDS000218745.3,cake,environmental/other,2017-03-20T13:21:08Z,LMF_file,Enteritidis,1,mixed,GCA_002038705.1,1,1,0,0,0,LMF
+26,GCA_002038715.1,PDS000218745.3,cake,environmental/other,2017-03-20T13:21:15Z,LMF_file,Enteritidis,1,mixed,GCA_002038715.1,1,1,0,0,0,LMF
+27,GCA_002038965.1,PDS000218745.3,cake,environmental/other,2017-03-20T13:27:12Z,LMF_file,Enteritidis,1,mixed,GCA_002038965.1,1,1,0,0,0,LMF
+28,GCA_002039125.1,PDS000184417.155,cake,environmental/other,2017-03-20T13:30:06Z,LMF_file,Enteritidis,1,mixed,GCA_002039125.1,1,1,0,0,0,LMF
+30,GCA_009507675.1,PDS000084711.573,snack bar,environmental/other,2017-09-26T18:36:33Z,LMF_file,Enteritidis,1,mixed,GCA_009507675.1,1,1,0,0,1,LMF
+34,GCA_004227205.1,PDS000218745.3,cake,environmental/other,2018-11-09T00:42:22Z,LMF_file,Enteritidis,1,mixed,GCA_004227205.1,1,1,0,0,0,LMF
+35,GCA_006002245.1,PDS000043097.1,cake,environmental/other,2019-02-01T23:56:57Z,LMF_file,Enteritidis,1,mixed,GCA_006002245.1,1,1,0,0,0,LMF
+36,GCA_006144215.1,PDS000218745.3,cake,environmental/other,2019-02-15T23:21:17Z,LMF_file,Enteritidis,1,mixed,GCA_006144215.1,1,1,0,0,0,LMF
+37,GCA_006076875.1,PDS000218745.3,cake,environmental/other,2019-02-15T23:21:26Z,LMF_file,Enteritidis,1,mixed,GCA_006076875.1,1,1,0,0,0,LMF
+39,GCA_009618955.1,PDS000065758.1669,feed,,2019-10-13T20:33:34Z,LMF_file,Enteritidis,1,mixed,GCA_009618955.1,1,1,0,0,0,LMF
+40,GCA_009624535.1,PDS000065758.1669,feed,,2019-10-13T20:33:55Z,LMF_file,Enteritidis,1,mixed,GCA_009624535.1,1,1,0,0,0,LMF
+61,GCA_032592355.1,PDS000002770.694,Inshell pistachio from a storage silo,environmental/other,2023-07-07T16:43:23Z,LMF_file,Enteritidis,1,mixed,GCA_032592355.1,1,1,0,1,0,LMF
+64,GCA_032541585.1,PDS000002770.694,Almond from a 2004 outbreak,environmental/other,2023-07-11T16:54:24Z,LMF_file,Enteritidis,1,mixed,GCA_032541585.1,1,1,0,0,0,LMF
+91,GCA_007742535.1,PDS000084711.573,ground turkey,environmental/other,2015-02-10T17:09:45Z,Control_file,Enteritidis,0,mixed,GCA_007742535.1,1,1,0,0,0,Control
+401,GCA_002038485.1,PDS000184417.155,homemade mayonnaise,environmental/other,2017-03-20T13:16:06Z,Control_file,Enteritidis,0,mixed,GCA_002038485.1,1,1,0,0,0,Control
+402,GCA_002038585.1,PDS000218745.3,homemade mayonnaise,environmental/other,2017-03-20T13:18:07Z,Control_file,Enteritidis,0,mixed,GCA_002038585.1,1,1,0,0,0,Control
+403,GCA_002038865.1,PDS000218745.3,homemade mayonnaise,environmental/other,2017-03-20T13:25:06Z,Control_file,Enteritidis,0,mixed,GCA_002038865.1,1,1,0,0,0,Control
+404,GCA_002038945.1,PDS000218745.3,homemade mayonnaise,environmental/other,2017-03-20T13:27:07Z,Control_file,Enteritidis,0,mixed,GCA_002038945.1,1,1,0,0,0,Control
+405,GCA_002039685.1,PDS000218745.3,homemade mayonnaise,environmental/other,2017-03-20T13:41:13Z,Control_file,Enteritidis,0,mixed,GCA_002039685.1,1,1,0,0,0,Control
+406,GCA_002039865.1,PDS000218745.3,homemade mayonnaise,environmental/other,2017-03-20T13:47:13Z,Control_file,Enteritidis,0,mixed,GCA_002039865.1,1,1,0,0,0,Control
+407,GCA_002039965.1,PDS000218745.3,homemade mayonnaise,environmental/other,2017-03-20T13:48:22Z,Control_file,Enteritidis,0,mixed,GCA_002039965.1,1,1,0,0,0,Control
+408,GCA_002041695.1,PDS000218745.3,chicken carcass,environmental/other,2017-03-20T14:36:12Z,Control_file,Enteritidis,0,mixed,GCA_002041695.1,1,1,0,0,0,Control
+409,GCA_002041835.1,PDS000218745.3,chicken meat,environmental/other,2017-03-20T14:38:09Z,Control_file,Enteritidis,0,mixed,GCA_002041835.1,1,1,0,0,0,Control
+410,GCA_002041955.1,PDS000218745.3,chicken carcass,environmental/other,2017-03-20T14:41:22Z,Control_file,Enteritidis,0,mixed,GCA_002041955.1,1,1,0,0,0,Control
+411,GCA_002042015.1,PDS000218745.3,egg,environmental/other,2017-03-20T14:43:13Z,Control_file,Enteritidis,0,mixed,GCA_002042015.1,1,1,0,0,0,Control
+412,GCA_002042065.1,PDS000218745.3,egg,environmental/other,2017-03-20T14:44:10Z,Control_file,Enteritidis,0,mixed,GCA_002042065.1,1,1,0,0,0,Control
+413,GCA_002042755.1,PDS000218745.3,egg,environmental/other,2017-03-20T14:55:17Z,Control_file,Enteritidis,0,mixed,GCA_002042755.1,1,1,0,0,0,Control
+414,GCA_002065725.1,PDS000184417.155,Chicken meat,environmental/other,2017-03-22T15:38:26Z,Control_file,Enteritidis,0,mixed,GCA_002065725.1,0,0,1,0,1,Control
+1457,GCA_006074615.1,PDS000218745.3,egg,environmental/other,2018-07-31T20:57:27Z,Control_file,Enteritidis,0,mixed,GCA_006074615.1,1,1,0,0,0,Control
+1682,GCA_007391565.1,PDS000065758.1669,chicken carcass,environmental/other,2019-01-04T00:54:43Z,Control_file,Enteritidis,0,mixed,GCA_007391565.1,1,1,0,0,0,Control
+1702,GCA_006683205.1,PDS000065758.1669,raw intact chicken,environmental/other,2019-01-19T14:54:25Z,Control_file,Enteritidis,0,mixed,GCA_006683205.1,1,1,0,0,0,Control
+1728,GCA_006002405.1,PDS000218745.3,homemade mayonnaise,environmental/other,2019-02-07T16:04:11Z,Control_file,Enteritidis,0,mixed,GCA_006002405.1,1,1,0,0,0,Control
+1729,GCA_006145915.1,PDS000218745.3,egg,environmental/other,2019-02-15T23:21:18Z,Control_file,Enteritidis,0,mixed,GCA_006145915.1,1,1,0,0,0,Control
+1730,GCA_006076575.1,PDS000043097.1,homemade mayonnaise,environmental/other,2019-02-15T23:21:27Z,Control_file,Enteritidis,0,mixed,GCA_006076575.1,1,1,0,0,0,Control
+1978,GCA_006473805.1,PDS000065758.1669,comminuted chicken,environmental/other,2019-06-20T14:53:01Z,Control_file,Enteritidis,0,mixed,GCA_006473805.1,1,1,0,0,0,Control
+2035,GCA_007855315.1,PDS000065758.1669,chicken carcass,environmental/other,2019-07-26T20:43:50Z,Control_file,Enteritidis,0,mixed,GCA_007855315.1,1,1,0,0,0,Control
+2233,GCA_009227165.1,PDS000065758.1669,raw intact chicken,environmental/other,2019-10-18T16:30:19Z,Control_file,Enteritidis,0,mixed,GCA_009227165.1,1,1,0,0,0,Control
+2409,GCA_011208605.1,PDS000065758.1669,raw intact chicken,environmental/other,2020-01-30T01:13:18Z,Control_file,Enteritidis,0,mixed,GCA_011208605.1,1,1,0,0,0,Control
+2464,GCA_011702675.1,PDS000058525.21,chicken meat,environmental/other,2020-02-25T19:13:56Z,Control_file,Enteritidis,0,mixed,GCA_011702675.1,1,1,0,0,0,Control
+2710,GCA_014067775.1,PDS000002770.694,comminuted beef,environmental/other,2020-08-04T21:16:59Z,Control_file,Enteritidis,0,mixed,GCA_014067775.1,1,0,0,0,0,Control
+2717,GCA_014349365.1,PDS000184417.155,chicken meat,environmental/other,2020-09-01T10:18:46Z,Control_file,Enteritidis,0,mixed,GCA_014349365.1,1,1,0,0,0,Control
+2781,GCA_017337525.1,PDS000002770.694,comminuted beef,environmental/other,2021-03-11T21:28:15Z,Control_file,Enteritidis,0,mixed,GCA_017337525.1,1,1,0,0,0,Control
+2830,GCA_046024395.1,PDS000065758.1669,Chicken Breasts,environmental/other,2021-10-31T20:29:41Z,Control_file,Enteritidis,0,mixed,GCA_046024395.1,0,0,0,0,0,Control
+2846,GCA_028890365.1,PDS000026860.270,Chicken meat,environmental/other,2023-03-01T04:31:47Z,Control_file,Enteritidis,0,mixed,GCA_028890365.1,1,1,0,0,1,Control
+2847,GCA_028890405.1,PDS000026860.270,Chicken meat,environmental/other,2023-03-01T04:32:07Z,Control_file,Enteritidis,0,mixed,GCA_028890405.1,1,1,0,0,1,Control
+2849,GCA_028890445.1,PDS000026860.270,Chicken meat,environmental/other,2023-03-01T04:32:31Z,Control_file,Enteritidis,0,mixed,GCA_028890445.1,1,1,0,0,1,Control
+2869,GCA_037003385.1,PDS000026945.72,chicken (food),,2024-03-05T06:08:16Z,Control_file,Enteritidis,0,mixed,GCA_037003385.1,1,1,0,0,0,Control
+2880,GCA_037003665.1,PDS000026945.72,chicken (food),,2024-03-05T06:10:26Z,Control_file,Enteritidis,0,mixed,GCA_037003665.1,0,0,0,0,1,Control
+2884,GCA_037003745.1,PDS000026945.72,chicken (food),,2024-03-05T06:11:13Z,Control_file,Enteritidis,0,mixed,GCA_037003745.1,1,1,0,0,1,Control
+2890,GCA_037003885.1,PDS000026869.554,chicken (food),,2024-03-05T06:12:26Z,Control_file,Enteritidis,0,mixed,GCA_037003885.1,0,0,0,0,1,Control
+2917,GCA_041411215.1,PDS000184417.155,Chicken meat,environmental/other,2024-08-21T17:24:43Z,Control_file,Enteritidis,0,mixed,GCA_041411215.1,1,1,0,0,1,Control
+2919,GCA_045376435.1,PDS000026869.554,egg white,environmental/other,2024-11-27T04:04:51Z,Control_file,Enteritidis,0,mixed,GCA_045376435.1,1,1,0,0,1,Control
+2922,GCA_045376635.1,PDS000026869.554,egg white,environmental/other,2024-11-27T04:06:12Z,Control_file,Enteritidis,0,mixed,GCA_045376635.1,1,1,0,0,1,Control

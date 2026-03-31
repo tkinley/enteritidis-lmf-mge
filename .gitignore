@@ -1,43 +1,80 @@
-# Large data / downloads / results (do not commit)
-data/
-datasets/
-assemblies/
-reads/
-results/
-tmp/
-work/
-scratch/
-panaroo/
-prokka/
-quast/
-busco/
-logs/
-*.fna
-*.fa
-*.fasta
-*.fastq
-*.fq
-*.bam
-*.cram
-*.vcf
-*.gff
-*.gbk
-*.sam
-*.bed
-
-# OS / editor
+# OS files
 .DS_Store
 Thumbs.db
+
+# IDEs
 .vscode/
 .idea/
 
 # Python
 __pycache__/
-*.pyc
+*.py[cod]
+.ipynb_checkpoints/
+**/.ipynb_checkpoints/
 
-# Generated figures and notebooks artifacts
+# R
+.Rhistory
+.RData
+.Rproj.user/
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Logs and temp
+*.log
+*.tmp
+*.temp
+*.bak
+*.swp
+*~
+
+# Archives
+*.zip
+*.tar
+*.tar.gz
+*.gz
+*.7z
+
+# Large genomics raw files
+*.fastq
+*.fastq.gz
+*.fq
+*.fq.gz
+*.fasta
+*.fa
+*.fna
+*.fasta.gz
+*.fa.gz
+*.fna.gz
+*.bam
+*.cram
+*.vcf
+*.sam
+*.bed
+
+# Common bulky tool/work dirs
+tmp/
+work/
+scratch/
+datasets/
+assemblies/
+reads/
+panaroo/
+prokka/
+quast/
+busco/
+logs/
+
+# Keep bulky intermediate outputs out of git
+data/intermediate/
+scripts/archive/
+
+# Ignore TIFFs by default, but keep final manuscript figures
 *.tif
 *.tiff
+<<<<<<< HEAD
 **/.ipynb_checkpoints/
 script/annotations/
 script/annotations.zip
@@ -54,3 +91,22 @@ script/mob_suite.zip
 script/**/*.tsv
 script/**/*.log
 script/**/*.err
+=======
+
+# BUSCO / QUAST / IQ-TREE style clutter
+*.ckp.gz
+*.contree
+*.bionj
+*.boottrees
+*.iqtree
+*.mldist
+*.model.gz
+*.splits.nex
+*.treefile
+*.uniqueseq.phy
+
+# Office temp files
+~$*.docx
+~$*.xlsx
+~$*.pptx
+>>>>>>> bd3346c (Reorganize repository structure and add manuscript outputs)
