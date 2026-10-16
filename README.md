@@ -86,6 +86,10 @@ Isolate metadata and assembly accessions are in `metadata/` and supplementary ta
 - Draft assemblies can miss or fragment plasmids. QC filters reduce but do not eliminate this risk.
 - LMF is a heterogeneous category (nuts, spices, bakery, and others). This study tests for a shared LMF signal, not for signals specific to one LMF subtype.
 
+## License
+
+Code is released under the MIT License (`LICENSE`). Curated metadata, processed tables, supplementary tables, and figures are released under CC BY 4.0 (`LICENSE-DATA.md`). GitHub's "Cite this repository" button reads `CITATION.cff`.
+
 ## Contact
 
 Corresponding authors: Kinley Tenzin (tenzin12@ksu.edu), Suhan Bheemaiah Balyatanda, Shivaprasad Doddabematti Prakash, Kaliramesh Siliveru, Thomas G. Platt. See paper for full author list and affiliations.

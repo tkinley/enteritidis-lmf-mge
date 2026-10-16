@@ -1,0 +1,43 @@
+cff-version: 1.2.0
+message: "If you use this code or these tables, please cite the article below."
+title: "enteritidis-lmf-mge: code and data for a lineage-aware plasmidome comparison of low-moisture food-associated Salmonella Enteritidis"
+type: software
+license: MIT
+repository-code: "https://github.com/tkinley/enteritidis-lmf-mge"
+authors:
+  - family-names: Tenzin
+    given-names: Kinley
+    affiliation: Kansas State University
+    orcid: "https://orcid.org/0009-0009-2417-6880"
+  - family-names: Balyatanda
+    given-names: Suhan Bheemaiah
+    affiliation: Kansas State University
+  - family-names: Doddabematti Prakash
+    given-names: Shivaprasad
+    affiliation: Kansas State University
+  - family-names: Siliveru
+    given-names: Kaliramesh
+    affiliation: Kansas State University
+  - family-names: Platt
+    given-names: Thomas G.
+    affiliation: Kansas State University
+preferred-citation:
+  type: article
+  title: "Lineage-aware comparative genomics shows no consistent reservoir-specific plasmidome in low-moisture food-associated Salmonella Enteritidis"
+  authors:
+    - family-names: Tenzin
+      given-names: Kinley
+      orcid: "https://orcid.org/0009-0009-2417-6880"
+    - family-names: Balyatanda
+      given-names: Suhan Bheemaiah
+    - family-names: Doddabematti Prakash
+      given-names: Shivaprasad
+    - family-names: Siliveru
+      given-names: Kaliramesh
+    - family-names: Platt
+      given-names: Thomas G.
+  journal: "Food Research International"
+  volume: 242
+  start: 120003
+  year: 2026
+  doi: "10.1016/j.foodres.2026.120003"

@@ -74,24 +74,17 @@ scripts/archive/
 # Ignore TIFFs by default, but keep final manuscript figures
 *.tif
 *.tiff
-<<<<<<< HEAD
-**/.ipynb_checkpoints/
-script/annotations/
-script/annotations.zip
-script/mob_suite/
-script/mob_suite.zip
 
 # Generated workflow outputs (do not version)
 script/annotations/
-script/mob_suite/
 script/annotations.zip
+script/mob_suite/
 script/mob_suite.zip
 
 # Intermediate logs/tables under scripts
 script/**/*.tsv
 script/**/*.log
 script/**/*.err
-=======
 
 # BUSCO / QUAST / IQ-TREE style clutter
 *.ckp.gz
@@ -109,4 +102,7 @@ script/**/*.err
 ~$*.docx
 ~$*.xlsx
 ~$*.pptx
->>>>>>> bd3346c (Reorganize repository structure and add manuscript outputs)
+
+# Local assistant/editor settings
+.claude/
+**/.claude/
